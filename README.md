@@ -19,7 +19,7 @@ This program was written entirely in C Programming Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2024 by [**Hamed Idriss Kemokai**](https://github.com/halino2710) and [**James**](https://github.com/Jackkoyoyo) </br>
+Copyright (C) 2024 by [**Hamed Idriss Kemokai**](https://github.com/halino2710) and [**James Laweh**](https://github.com/Jackkoyoyo) </br>
 All rights reserved
 
  ## Description :
@@ -32,5 +32,5 @@ Our shell was built and tested on  Ubuntu 20.04 LTS.
 
 ## Contributors :
 * [**Hamed Idriss Kemokai**](https://github.com/halino2710)
-* [**James**](https://github.com/Jackkoyoyo)
+* [**James Laweh**](https://github.com/Jackkoyoyo)
 
